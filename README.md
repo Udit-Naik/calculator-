@@ -1,5 +1,5 @@
 # calculator-javaScript
-##javaScript code 
+## javaScript code 
 ```javaScript
 function Solve(val) {
     var v = document.getElementById('res');
